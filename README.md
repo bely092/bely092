@@ -1,4 +1,4 @@
-<p align="left">Holaa!<br>Soy actualmente estudiante, geek, amante de las tecnologías y videojuegos. Siempre me encuentro aprendiendo algo nuevo.<br>Mi experiencia se basa en proyectos creados en cursos online, durante las carreras y por gusto propio. Desde páginas web, aplicaciones en Android hasta análisis de datos y de machine learning.</p>
+<p align="left">Holaa!<br>Actualmente soy estudiante, geek, amante de las tecnologías y videojuegos. Siempre me encuentro aprendiendo algo nuevo.<br>Mi experiencia se basa en proyectos creados en cursos online, durante las carreras y por gusto propio. Desde páginas web, aplicaciones en Android hasta análisis de datos y de machine learning.</p>
 
 ###
 
